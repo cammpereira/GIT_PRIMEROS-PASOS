@@ -1,9 +1,6 @@
 
-Usuario: custadmin
-Pass: cga4233
+Usuario: bts
+Pass: 13062013
+=======
+Aguante BTS!
 
-Agrego una nueva linea original del desktop
-
-Agrego una nueva linea pero desde la web
-Aguante BTS
-Mi bias es V
